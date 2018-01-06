@@ -15,7 +15,7 @@ from googletrans import Translator
 
 kr = KRIS.LINE()
 #kr.login(qr=True)
-kr.login(token='EoLGjnktaOkeZ0P2Xvtb.w6+8YbOkbOMyiHAGbC+hcW.dN871cpoyqNpeO0i0Nqm1KGLD3QrGN8yrpR3OqrPbhM=')#chery
+kr.login(token='Eon2OHa6WdHoLfnW6l0b.w6+8YbOkbOMyiHAGbC+hcW.CwmrG/cSsIN2F7AEmmyIeNDdnr+WV51mLU95XkIR78M=')#chery
 kr.loginResult()
 
 print "╔═════════════════════════\n║╔════════════════════════\n║╠[•] saya sendiri BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
